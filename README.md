@@ -1,2 +1,2 @@
 # ENGN2605
-All labs' code. Welcome to reference. I hope it will be helpful to your course study.
+All labs' code. Welcome to reference. Hope it will be helpful to your course study.
